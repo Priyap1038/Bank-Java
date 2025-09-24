@@ -92,7 +92,7 @@ out/
 
 **Priya P.**
 Full Stack Developer & Mentor
-[[PriyaP1038](https://github.com/Priyap1038)](#) | [[PriyaP](https://www.linkedin.com/in/priya-p-50a998250/)](#)
+[[Github ](https://github.com/Priyap1038)](#) | [[Linkedin ](https://www.linkedin.com/in/priya-p-50a998250/)](#)
 
 ---
 
